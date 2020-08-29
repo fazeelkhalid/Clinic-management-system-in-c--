@@ -1,0 +1,4 @@
+3
+	arsalan khan	14 4 1991	29	755479	1	Heart_Disease.	-1 
+	atif noman	19 1 1930	60	472912	2	Allergies	-1 
+	sharooz ali	5 11 1969	50	324562	3	Liver_Disease	1 -1 
